@@ -1,0 +1,6 @@
+artifacts_root: artifcats
+
+data:
+  source_url: artifacts/whitepaper.txt
+  chunk_url: artifacts/chunk_df.csv
+  
